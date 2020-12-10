@@ -3,7 +3,7 @@
   "compilerOptions": {
     "allowJs": true,
     "module": "commonjs",
-    "lib": ["ES5"],
+    "lib": ["DOM", "ESNext"],
     "rootDir": "./src",
     "strict": true,
     "moduleResolution": "node",
